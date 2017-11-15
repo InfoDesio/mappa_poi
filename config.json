@@ -1,0 +1,16 @@
+{
+  "category": [
+    {
+      "ID": "libri_in_transito",
+      "Value": "Libri in Transito"
+    },
+    {
+      "ID": "noslot",
+      "Value": "Locali NoSlot"
+    },
+    {
+      "ID": "vegani",
+      "Value": "Prodotti per vegani"
+    }
+  ]
+}
